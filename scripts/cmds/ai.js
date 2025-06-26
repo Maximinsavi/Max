@@ -50,7 +50,7 @@ module.exports = {
     role: 0,
     category: 'ai',
     longDescription: {
-      en: 'This is a large Ai language model trained by OpenAi, it is designed to assist with a wide range of tasks.',
+      en: 'This is a large Ai language model trained by 𝐌𝐚𝐱𝐢𝐦𝐢𝐧 𝐒𝐚𝐯𝐢, it is designed to assist with a wide range of tasks.',
     },
     guide: {
       en: '\nAi < questions >\n\n🔎 𝗚𝘂𝗶𝗱𝗲\nAi what is capital of France?',
